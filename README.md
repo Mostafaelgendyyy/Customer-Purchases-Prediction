@@ -1,5 +1,5 @@
 # Human-Purchases-Prediction
-
+Customer purchase prediction aims to predict customers' future purchases, and the prediction results are of great importance for conducting future commercial activities. To obtain accurate predictions of customer purchases, this paper develops a machine learning framework based on historical behavioural data. 
 
 # Dataset Description 
 dataset “customer_data.csv” contains 400 records
